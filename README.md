@@ -1,18 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Portfólio</title>
-    <link rel="stylesheet" href="css/styles.css" />
-  </head>
   <body>   
     <header class="header">
       <a href="#home" class="logo">Gabriela <span>Guedes</span></a>
-
       <i class="bx bx-menu" id="menu-icon"></i>
-
       <nav class="navbar">
         <a href="#home" class="active">Início</a>
         <a href="#sobremim">Sobre Mim</a>
@@ -21,7 +10,6 @@
         <a href="#contact">Contato</a>
       </nav>
     </header>
-
     <section class="home" id="home">
       <div class="home-content">
         <h1>Olá, Eu Sou <span>Gabriela Guedes</span></h1>
@@ -32,7 +20,6 @@
           <b>Javascript; CSS; Python; PHP.</b>
           Focado em Entregar Soluções Visuais Inovadoras e Funcionais.
         </p>
-
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/gabriela-guedes-512177236/"
             ><img
@@ -43,21 +30,17 @@
               src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAm9JREFUSEvFlU2IjlEUx39/kQ1ZIMkS5XOKZKGmiBI2hmKkKBn5Sk0yPko0+WgojeQj7AglzIYdCwuUiHyWSRYWPposTApxPGe6z3TfO8/7zjOLydm87z33f+7/nnPP+T9ikE2DfD41CcxsGLAcWALMBCZDT8wH4DlwJ/PfkPS72kWrEpjZIuAsMKmfLN8DmyTdLcIVEpjZbuBouG2ZKv4F9kg6noL7EJhZC9BW5tQCTLOk9thfQWBmCwBP1f1e3w3AFmA/MAToBLzeUwG/9RHgDHAKWBl89ZIe5CS9BGY2HHgFTAybrZIO+H8z83f4LOl7WI8Axkt6F9b7gMMh7jVQJ+mPr2OC1cC1KL12Sc1lSmVmx4BdEXaZJK9ABcFlYG0EmifpYUmCuqydn0XnnZa0PSXw8kzL05Q0vczhOcbMngCzw/pxlsHclOALMDYAOiQ1DJDgCrAmxHRJGpMSfMoGa1wA3JO0cIAEt4GlIaZb0siU4CkwKwC8W0bXkoCYPEjKV2BU8L+V5K1c8cgXgI1RYJOki2WyMLMm4HyEvSRpXUrgNb8JfAO6vc99/F2PJP0oIjIzn4dtYeB8EHNblTXJ9ZTAZ8I7aQKwGNgMrAd+halulPTTg0JJbgXc0IT8DTBDkk96pVyb2QqX36xUH4E5YfDmhyy2JnW/CjQWZNYgqSP3F4ndSWCH64+kQ9XewMwOZsn0SElkJzI52Rk7qsm1i1srcD8TsRfAS0nnkgx833G5tZSS6xxtZvWAS69PZ5skf/BeMzNX0r3AI8Bl2n/7WH+fTN/3T2anJM8kJpjisi3JH7uq/d+Pfq2bld37B8MT0hliYf0NAAAAAElFTkSuQmCC"
           /></a>
         </div>
-
         <div class="btn-group">
           <a href="#contact" class="btn">Contratar</a>
           <a href="https://wa.me/5521991204173" class="btn">Contato</a>
         </div>
       </div>
-
       <div class="home-img">
         <img src="imagens/profile.webp" alt="Foto1 ia" />
       </div>
     </section>
-
     <section class="sobre-mim" id="sobremim">
       <h2 class="heading">Sobre Mim</h2>
-
       <div class="timeline-items">
         <div class="timeline-item">
           <div class="timeline-dot"></div>
@@ -72,7 +55,6 @@
             </p>
           </div>
         </div>
-
         <div class="timeline-item">
           <div class="timeline-dot"></div>
           <div class="timeline-date">2021</div>
@@ -86,7 +68,6 @@
             </p>
           </div>
         </div>
-
         <div class="timeline-item">
           <div class="timeline-dot"></div>
           <div class="timeline-date">2023</div>
@@ -115,7 +96,6 @@
         </div>
       </div>
     </section>
-
     <section class="skills" id="skills">
       <h2 class="heading">Minhas <span>Skills</span></h2>
       <div class="container">
@@ -126,28 +106,24 @@
               <span>javaScript</span>
             </div>
           </div>
-
           <div class="bar">
             <div class="info">
               <img src="imagens/python (1).png" alt="Python Icons " />
               <span>Python</span>
             </div>
           </div>
-
           <div class="bar">
             <div class="info">
               <img src="imagens/html (1).png" alt=" HTML Icons" />
               <span>HTML5</span>
             </div>
           </div>
-
           <div class="bar">
             <div class="info">
               <img src="imagens/social (1).png" alt=" CSS icons" />
               <span>CSS3</span>
             </div>
           </div>
-
           <div class="bar">
             <div class="info">
               <img src="imagens/figma (1).png" alt="Figma Icons " />
@@ -157,14 +133,11 @@
         </div>
       </div>
     </section>
-
     <section class="projects" id="projects">
       <h2 class="heading">Meus <span>Projetos</span></h2>
     </section>
-
     <section class="contact" id="contact">
       <h2 class="heading">Contate-<span>Me</span></h2>
-
       <form
         action="https://formsubmit.co/gabr1.profissional@gmail.com"
         method="POST"
@@ -179,7 +152,6 @@
             <input type="text" name="assunt" placeholder="Assunto" />
           </div>
         </div>
-
         <div class="input-group-2">
           <textarea
             name="text"
@@ -192,7 +164,6 @@
         </div>
       </form>
     </section>
-
     <footer class="footer">
       <div class="social">
         <a href="https://www.linkedin.com/in/gabriela-guedes-512177236/"
@@ -204,31 +175,25 @@
             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAm9JREFUSEvFlU2IjlEUx39/kQ1ZIMkS5XOKZKGmiBI2hmKkKBn5Sk0yPko0+WgojeQj7AglzIYdCwuUiHyWSRYWPposTApxPGe6z3TfO8/7zjOLydm87z33f+7/nnPP+T9ikE2DfD41CcxsGLAcWALMBCZDT8wH4DlwJ/PfkPS72kWrEpjZIuAsMKmfLN8DmyTdLcIVEpjZbuBouG2ZKv4F9kg6noL7EJhZC9BW5tQCTLOk9thfQWBmCwBP1f1e3w3AFmA/MAToBLzeUwG/9RHgDHAKWBl89ZIe5CS9BGY2HHgFTAybrZIO+H8z83f4LOl7WI8Axkt6F9b7gMMh7jVQJ+mPr2OC1cC1KL12Sc1lSmVmx4BdEXaZJK9ABcFlYG0EmifpYUmCuqydn0XnnZa0PSXw8kzL05Q0vczhOcbMngCzw/pxlsHclOALMDYAOiQ1DJDgCrAmxHRJGpMSfMoGa1wA3JO0cIAEt4GlIaZb0siU4CkwKwC8W0bXkoCYPEjKV2BU8L+V5K1c8cgXgI1RYJOki2WyMLMm4HyEvSRpXUrgNb8JfAO6vc99/F2PJP0oIjIzn4dtYeB8EHNblTXJ9ZTAZ8I7aQKwGNgMrAd+halulPTTg0JJbgXc0IT8DTBDkk96pVyb2QqX36xUH4E5YfDmhyy2JnW/CjQWZNYgqSP3F4ndSWCH64+kQ9XewMwOZsn0SElkJzI52Rk7qsm1i1srcD8TsRfAS0nnkgx833G5tZSS6xxtZvWAS69PZ5skf/BeMzNX0r3AI8Bl2n/7WH+fTN/3T2anJM8kJpjisi3JH7uq/d+Pfq2bld37B8MT0hliYf0NAAAAAElFTkSuQmCC"
         /></a>
       </div>
-
       <ul class="list">
         <li>
           <a href="#home">Início</a>
         </li>
-
         <li>
           <a href="#projects">Projetos</a>
         </li>
-
         <li>
           <a href="#sobremim">Sobre Mim</a>
         </li>
-
         <li>
           <a href="#skills">Skills</a>
         </li>
-
         <li>
           <a href="https://wa.me/5521991204173">Contato</a>
         </li>
       </ul>
       <p class="copyright">©Gabriela Guedes | All Rights Reserved</p>
     </footer>
-
     <script src="script.js"></script>
   </body>
 </html>
